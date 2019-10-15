@@ -1,4 +1,5 @@
-# First AREM Project
+# Apache Web Server Project
+## First AREM Project
 
 A Web server (Apache type) was implemented in Java. The server is able to deliver html pages and jpg images, and it is also able to search for requested resources such as java classes and receive parameters. The server attends multiple non-concurrent requests.
 
